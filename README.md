@@ -4,7 +4,7 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Herencia%20%26%20Interfaces-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In-progress-red?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completado-green?style=for-the-badge)
 
 **Sistema de gestión de productos de supermercado**  
 _Proyecto educativo que demuestra conceptos avanzados de Programación Orientada a Objetos en Java_
