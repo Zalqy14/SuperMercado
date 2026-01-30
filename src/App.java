@@ -48,11 +48,13 @@ public class App {
         System.out.println("DETERGENTES");
         System.out.println("───────────────────────────────────────────");
 
-        Detergente d1 = new Detergente("Fairy", 3.99, "Botella de plástico", 1.0, 0.15);
+        Detergente d1 = new Detergente("Fairy", 3.99, "Botella de plástico", 1.0);
+        d1.setDescuento(0.2);
         System.out.println(d1);
         System.out.println();
 
-        Detergente d2 = new Detergente("Ariel", 8.50, "Garrafa de plástico", 3.0, 0.20);
+        Detergente d2 = new Detergente("Ariel", 8.50, "Garrafa de plástico", 3.0);
+        d2.setDescuento(0.5);
         System.out.println(d2);
         System.out.println();
 
